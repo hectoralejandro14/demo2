@@ -1,0 +1,78 @@
+ {
+ "estado": true,
+  "mensaje": null,
+  "result": [
+    {
+      "id": "14a58b1da07ee2b505ced69361e19c52",
+      "nombre": "Héctor Alejandro",
+      "usuario": "acheno",
+      "creacion": "2019-08-12 12:07:23",
+      "activo": "t",
+      "correo": "acheno@geniuscode.mx",
+      "rol": "Administrador"
+    },
+    {
+      "id": "2a2e9a58102784ca18e2605a4e727b5f",
+      "nombre": "Administrador",
+      "usuario": "admin",
+      "creacion": "2019-05-14 00:00:00",
+      "activo": "t",
+      "correo": "soporte@geniuscode.mx",
+      "rol": "Administrador"
+    },
+    {
+      "id": "58fcea79154f9bb547822f49fe914c6b",
+      "nombre": "asdasd",
+      "usuario": "asdasd",
+      "creacion": "2019-08-12 13:42:33",
+      "activo": "t",
+      "correo": "acheno@geniuscode.mx",
+      "rol": "Administrador"
+    },
+    {
+      "id": "66fbf30ad7098fd3828d5312423f566f",
+      "nombre": "Eloy Vidal",
+      "usuario": "evidal",
+      "creacion": "2019-08-12 12:15:34",
+      "activo": "t",
+      "correo": "evidal@geniuscode.mx",
+      "rol": "Administrador"
+    },
+    {
+      "id": "0f42b1b65ff57f665e9ded8b1bb3f4c2",
+      "nombre": "Javier Quijada",
+      "usuario": "jquijada",
+      "creacion": "2019-05-14 09:25:55",
+      "activo": "t",
+      "correo": "jquijada@geniuscode.mx",
+      "rol": "Administrador"
+    },
+    {
+      "id": "2809d4d68d087905ac9ac1f6b9d8cfdf",
+      "nombre": "Leo ",
+      "usuario": "lcas",
+      "creacion": "2019-05-14 09:26:17",
+      "activo": "t",
+      "correo": "lcastellanos@geniuscode.mx",
+      "rol": "Administrador"
+    },
+    {
+      "id": "d97c96ee092e456d96daf2a5ee0c0d01",
+      "nombre": "Prueba Permisos",
+      "usuario": "permisos",
+      "creacion": "2019-05-16 11:23:47",
+      "activo": "t",
+      "correo": "permisos@prueba.com",
+      "rol": "Permisos"
+    },
+    {
+      "id": "e48e374bdca3514a5dc2fb1f934cf7bb",
+      "nombre": "Yassuo NA",
+      "usuario": "Yassuo",
+      "creacion": "2019-05-24 15:55:01",
+      "activo": "t",
+      "correo": "Yassuo@yasuo.com",
+      "rol": "Administrador"
+    }
+  ]
+}
